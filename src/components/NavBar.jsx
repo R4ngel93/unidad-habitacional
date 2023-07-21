@@ -12,10 +12,10 @@ function NavBar(){
                     </div>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><Link to={"/"}>Inicio</Link></li>
-                        <li><a href="#">Registro de usuarios</a></li>
-                        <li><a href="#">Registro de visitas</a></li>
-                        <li><a href="#">Consulta pagos</a></li>
-                        <li><a href="#">Pago de cuotas</a></li>
+                        <li><Link to={"/"}>Registro de usuarios</Link></li>
+                        <li><Link to={"/"}>Registro de visitas</Link></li>
+                        <li><Link to={"/"}>Consulta pagos</Link></li>
+                        <li><Link to={"/"}>Pago de cuotas</Link></li>
                         <li><Link to={"galeria"}>Galería</Link></li>
                     </ul>
                 </div>
